@@ -1,0 +1,9 @@
+INFO: [SIM 2] *************** CSIM start ***************
+INFO: [SIM 4] CSIM will launch GCC as the compiler.
+   Compiling ../../../../spam-filter/src/sw/sgd_sw.cpp in debug mode
+   Generating csim.exe
+Spam Filter Application
+Checking results:
+elapsed time: -4202078000000 us
+INFO: [SIM 1] CSim done with 0 errors.
+INFO: [SIM 3] *************** CSIM finish ***************

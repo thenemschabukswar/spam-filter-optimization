@@ -1,0 +1,6 @@
+SgdLR_sw_fadd_32nbkb
+SgdLR_sw_fdiv_32ncud
+SgdLR_sw_fpext_32dEe
+SgdLR_sw_fexp_32neOg
+SgdLR_sw_gradient_V
+SgdLR_sw

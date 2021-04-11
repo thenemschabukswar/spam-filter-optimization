@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<autopilotfilemapping:AutoPilotFileMapping xmlns:autopilotfilemapping="www.autoesl.com/autopilotfilemapping">
+  <source>
+    <originFiles name="typedefs.h" path="F:\vlsi\spam-filter\src\host\typedefs.h"/>
+    <originFiles name="sgd_sw.h" path="F:\vlsi\spam-filter\src\sw\sgd_sw.h"/>
+    <originFiles name="sgd_sw.cpp" path="F:\vlsi\spam-filter\src\sw\sgd_sw.cpp"/>
+    <originFiles name="lut.h" path="F:\vlsi\spam-filter\src\sw\lut.h"/>
+  </source>
+  <testbench>
+    <originFiles name="utils.h" path="F:\vlsi\spam-filter\src\host\utils.h"/>
+    <originFiles name="utils.cpp" path="F:\vlsi\spam-filter\src\host\utils.cpp"/>
+    <originFiles name="typedefs.h" path="F:\vlsi\spam-filter\src\host\typedefs.h"/>
+    <originFiles name="spam_filter.cpp" path="F:\vlsi\spam-filter\src\host\spam_filter.cpp"/>
+    <originFiles name="shuffledlabels.dat" path="F:\vlsi\spam-filter\data\shuffledlabels.dat"/>
+    <originFiles name="shuffledfeats.dat" path="F:\vlsi\spam-filter\data\shuffledfeats.dat"/>
+    <originFiles name="check_result.h" path="F:\vlsi\spam-filter\src\host\check_result.h"/>
+    <originFiles name="check_result.cpp" path="F:\vlsi\spam-filter\src\host\check_result.cpp"/>
+  </testbench>
+</autopilotfilemapping:AutoPilotFileMapping>
